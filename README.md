@@ -1,4 +1,4 @@
-# Google Dorks for Bug Bounty
+![GA0BjsWbsAARbzS](https://github.com/Hiroki-Sawada-y/google-dorks-bug-bounty/assets/63328160/6bc49caa-6126-49e0-8434-27184968b11d)# Google Dorks for Bug Bounty
 
 A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
@@ -41,7 +41,7 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
 ### SSRF Prone Parameters
 
-> inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain=  | inurl:page= inurl:& site:example.com
+> inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:redirect= | inurl:feed= | inurl:continue= | inurl:window= | inurl:next= | inurl:reference= | inurl:site= | inurl:val= | inurl:validate= | inurl:callback= | inurl:=return | inurl:view= | inurl:host= | inurl:port= | inurl:to= | inurl:out= | inurl:dir= | inurl:page= inurl:& site:example.com
 
 ### LFI Prone Parameters
 
